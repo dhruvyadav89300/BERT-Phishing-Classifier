@@ -1,0 +1,12 @@
+transformers
+datasets
+evaluate
+numpy
+tqdm
+jupyter
+ipywidgets
+torch
+scikit-learn
+accelerate>=0.26.0
+python-dotenv
+matplotlib
